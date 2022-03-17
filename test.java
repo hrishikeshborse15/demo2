@@ -9,14 +9,14 @@ void Add()
 { System.out.println ("sum="+ (x+y));}
 
 
-void sub() {
-	System.out.println("substraction"+ (x-y));
+void mul() {
+	System.out.println("multiplication"+ (x*y));
 }
 
 	public static void main(String[] args) {
 		test c= new test();
 		c.Add();
-		c.sub();	
+		c.mul();	
 
 	}
 
