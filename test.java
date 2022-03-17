@@ -1,4 +1,4 @@
-package java1;
+package java22
 
 public class test {
 	int x=10;
